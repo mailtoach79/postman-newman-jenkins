@@ -75,7 +75,7 @@
 							"    pm.expect(pm.response.code).to.be.oneOf([201, 202]);\r",
 							"});\r",
 							"pm.test(\"Body matches string\", function () {\r",
-							"    pm.expect(pm.response.text()).to.include(\"morpheus2\");\r",
+							"    pm.expect(pm.response.text()).to.include(\"morpheus1\");\r",
 							"});\r",
 							""
 						],
