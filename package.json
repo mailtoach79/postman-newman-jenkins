@@ -1,0 +1,28 @@
+{
+  "name": "postman-newman-jenkins",
+  "version": "1.0.0",
+  "description": "Run postman-newman tests in jenkins",
+  "keywords": [
+    "Postman",
+    "Newman",
+    "Jenkins"
+  ],
+  "homepage": "https://github.com/mailtoach79/postman-newman-jenkins#readme",
+  "bugs": {
+    "url": "https://github.com/mailtoach79/postman-newman-jenkins/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailtoach79/postman-newman-jenkins.git"
+  },
+  "license": "ISC",
+  "author": "Sankar Dakoju",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "newman": "^6.2.1"
+  }
+}
